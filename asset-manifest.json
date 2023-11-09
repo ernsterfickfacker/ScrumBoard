@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ScrumBoard/static/css/main.ba48e361.css",
+    "main.js": "/ScrumBoard/static/js/main.087bcf40.js",
+    "static/js/787.135d22e7.chunk.js": "/ScrumBoard/static/js/787.135d22e7.chunk.js",
+    "index.html": "/ScrumBoard/index.html",
+    "main.ba48e361.css.map": "/ScrumBoard/static/css/main.ba48e361.css.map",
+    "main.087bcf40.js.map": "/ScrumBoard/static/js/main.087bcf40.js.map",
+    "787.135d22e7.chunk.js.map": "/ScrumBoard/static/js/787.135d22e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba48e361.css",
+    "static/js/main.087bcf40.js"
+  ]
+}

@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}#root,.App,body,html{height:100%}.flexbox{display:flex;height:100vh;margin:0 auto;max-width:100%;overflow:hidden;padding:15px;top:150px;width:100%}.flexbox .board,.flexbox .board2{align-items:center;display:flex;flex-direction:column;margin-right:15px;padding:15px;width:400px}.card{background-color:#f3f3f3;cursor:pointer;margin-bottom:15px;padding:15px 25px;width:100%}
+/*# sourceMappingURL=main.ba48e361.css.map*/
